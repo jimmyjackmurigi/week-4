@@ -1,0 +1,10 @@
+# Ethical Reflection
+
+**Bias in Predictive Models:**
+- Breast cancer dataset may underrepresent some populations.
+- Could lead to biased predictions.
+
+**Mitigation:**
+- Use tools like IBM AI Fairness 360 to:
+  - Detect biased patterns.
+  - Apply fairness corrections (e.g., reweighing, equal opportunity).
